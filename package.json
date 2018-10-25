@@ -1,0 +1,31 @@
+{
+  "name": "jshelperfuncs",
+  "version": "1.0.0",
+  "description": "helperFunctions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisPfaff/JsHelperFuncs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisPfaff/JsHelperFuncs/issues"
+  },
+  "homepage": "https://github.com/chrisPfaff/JsHelperFuncs#readme",
+  "dependencies": {
+    "babel-eslint": "^10.0.1",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.4",
+    "prettier": "^1.14.3",
+    "prettierrc": "0.0.0-5"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^3.1.0",
+    "eslint-plugin-prettier": "^3.0.0"
+  }
+}
